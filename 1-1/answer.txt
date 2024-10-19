@@ -1,0 +1,26 @@
+In computer jargon, what’s the difference between a
+statement and a comment?
+
+A part of a program that will not get executed, it mean to
+be read by us the programmer.
+
+===========================================================
+What does it mean to say that a program is portable?
+
+It mean that the program can be run on many different 
+hardware platform.
+
+===========================================================
+In common English, what does the word compile mean?
+
+Collect (information) in order to produce a list or book,
+or to accumulate.
+
+===========================================================
+What is an executable? Why is that word used as a noun?
+
+Executable is a program that the computer know how to run.
+
+It's used a noun because it represents a specific entity
+(file or program) that performs a function when run.
+
